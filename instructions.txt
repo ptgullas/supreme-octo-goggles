@@ -4,3 +4,6 @@ In the demo, he uses Lorem Ipsum text, but I don't feel like looking for some. S
 
 
 Please refer to the website for for instructions, dude.
+
+
+This is the change that was made in the Sample Branch!!!
